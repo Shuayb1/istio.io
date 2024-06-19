@@ -175,6 +175,7 @@ Bazel
 BCubed
 Berben
 Berkus
+BeyondProd
 Bian
 BigQuery
 Birkland
@@ -370,10 +371,17 @@ CVE-2024-23322
 CVE-2024-23323
 CVE-2024-23324
 CVE-2024-23325
+CVE-2024-23326
 CVE-2024-23327
 CVE-2024-27919
 CVE-2024-30255
 CVE-2024-32475
+CVE-2024-32974
+CVE-2024-32975
+CVE-2024-32976
+CVE-2024-34362
+CVE-2024-34363
+CVE-2024-34364
 CVEs
 cves
 cvss
@@ -484,6 +492,7 @@ FedRAMP
 filename
 filenames
 fine-grained
+FIPS
 Firebase
 FitStation
 Fluentd
@@ -627,6 +636,7 @@ ISTIO-SECURITY-2022-005
 ISTIO-SECURITY-2023-001
 ISTIO-SECURITY-2023-002
 ISTIO-SECURITY-2023-003
+ISTIO-SECURITY-2023-004
 istio-system
 istio.io
 istio.io.
@@ -709,6 +719,7 @@ Kustomization
 Kustomize
 kustomize
 kyzy
+L2-L4
 L3-4
 L4-L6
 L4-only
@@ -1072,6 +1083,7 @@ Speedscale
 SPIFFE
 SPIFFE-compliant
 Splunk
+SPOFs
 src
 SREs
 Srihari
@@ -1269,6 +1281,7 @@ wikipedia.org
 wildcard
 wildcarded
 wildcards
+Wireguard
 workgroup
 workload
 workstream

@@ -70,8 +70,9 @@ Istio 不保证超出支持窗口期的次要版本都有已知的 CVE 补丁。
 
 | 次要版本          | 没有已知 CVE 的补丁版本                                |
 |------------------|------------------------------------------------------|
-| 1.21.x           | 1.21.2+                                              |
-| 1.20.x           | 1.20.6+                                              |
+| 1.22.x           | 1.22.1+                                              |
+| 1.21.x           | 1.21.3+                                              |
+| 1.20.x           | 1.20.7+                                              |
 
 ## 支持的 Envoy 版本 {#supported-envoy-versions}
 
@@ -85,5 +86,5 @@ Istio 的数据面基于 [Envoy](https://github.com/envoyproxy/envoy)。
 | 1.21.x        | release/v1.29        |
 | 1.20.x        | release/v1.28        |
 
-您可以在 [`istio/proxy`](https://github.com/istio/proxy/blob/master/WORKSPACE#L38)
-中准确找到 Istio 所使用的 Envoy Commit。
+您可以在 [`istio/proxy` 仓库](https://github.com/istio/proxy/blob/{{< source_branch_name >}}/WORKSPACE#L26)中找到
+Istio 使用的具体 Envoy 提交：查找 `ENVOY_SHA` 变量。
